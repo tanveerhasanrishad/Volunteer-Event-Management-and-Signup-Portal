@@ -1,7 +1,7 @@
 
-  # Volunteer Event Management Portal (Copy)
+  # Volunteer Event Management Portal 
 
-  This is a code bundle for Volunteer Event Management Portal (Copy). The original project is available at (https://volunteer-event-management-and-sign.vercel.app/)
+  This is a code bundle for Volunteer Event Management Portal. The original project is available at (https://volunteer-event-management-and-sign.vercel.app/)
 
   ## Running the code
 
